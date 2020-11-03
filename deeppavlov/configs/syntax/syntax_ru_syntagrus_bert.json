@@ -181,7 +181,7 @@
       },
       {
         "url": "http://files.deeppavlov.ai/deeppavlov_data/morpho_tagger/UD2.3/ru_syntagrus.tar.gz",
-        "subdir": "{DOWNLOADS_PATH}/UD2.3_source/ru_syntagrus"
+        "subdir": "{DOWNLOADS_PATH}/Disamb/ru_syntagrus"
       }
     ]
   }
